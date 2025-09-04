@@ -1,5 +1,4 @@
 def line():
-    print("TO DO")
     import math
 
     coefA = float(input("Ingrese el coeficiente A: "))
